@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="NeedIt Application">ab7c10a5db5c009087fc9db2ca96195a</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>2</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin.ayse</sys_created_by>
+        <sys_created_on>2019-10-07 12:08:44</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>a0efcf52db54401087fc9db2ca9619fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ab7c10a5db5c009087fc9db2ca96195a</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_a0efcf52db54401087fc9db2ca9619fc</sys_update_name>
+        <sys_updated_by>admin.ayse</sys_updated_by>
+        <sys_updated_on>2019-10-07 12:08:44</sys_updated_on>
+        <tab display_value="Active Weekly">e0ef0312db54401087fc9db2ca961959</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>
