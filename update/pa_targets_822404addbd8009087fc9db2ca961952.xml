@@ -9,7 +9,7 @@
         <element/>
         <element_level2/>
         <indicator display_value="NeedIt: Due Monthly">37662308dbd8c85087fc9db2ca961922</indicator>
-        <owner display_value="Ayse Karaman (admin)">f8c5eeb8dbc48c101f11ff0968961964</owner>
+        <owner display_value="">f8c5eeb8dbc48c101f11ff0968961964</owner>
         <sys_class_name>pa_targets</sys_class_name>
         <sys_created_by>admin.ayse</sys_created_by>
         <sys_created_on>2019-10-04 13:23:12</sys_created_on>

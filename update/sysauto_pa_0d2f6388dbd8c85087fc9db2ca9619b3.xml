@@ -8,7 +8,7 @@
         <description/>
         <kill_job>false</kill_job>
         <name>temporary job for collecting Analytic Owner</name>
-        <run_as display_value="Ayse Karaman (admin)">f8c5eeb8dbc48c101f11ff0968961964</run_as>
+        <run_as display_value="">f8c5eeb8dbc48c101f11ff0968961964</run_as>
         <run_as_tz/>
         <run_dayofmonth>1</run_dayofmonth>
         <run_dayofweek/>
